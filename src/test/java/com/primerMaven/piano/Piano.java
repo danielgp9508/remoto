@@ -118,7 +118,8 @@ public class Piano {
 		driver.manage().window().maximize();
 		WebElement nota1 = driver.findElement(By.xpath("/html")); 
 		
-		
+           System.out.print(" :) JHINDY :) "); 
+          
 	}
 	
 	@After
