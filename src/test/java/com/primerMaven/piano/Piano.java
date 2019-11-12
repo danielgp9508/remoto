@@ -127,7 +127,7 @@ public class Piano {
 		
 
 
-		System.out.println("Cristian es tremendo voltaje");
+		System.out.println("jhindy es tremendo voltaje");
 
 		
 	}
