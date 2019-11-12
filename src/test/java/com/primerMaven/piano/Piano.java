@@ -126,7 +126,9 @@ public class Piano {
 	public void After() {
 		
 
-		System.out.println("cristian es tremendo voltaje");
+
+		System.out.println("Cristian es tremendo voltaje");
+
 		
 	}
 
