@@ -125,7 +125,7 @@ public class Piano {
 	@After
 	public void After() {
 		
-		System.out.println("A Daniel le gusta que lo mime muchoooooooooo. ;)");
+		System.out.println("jhindy es tremendo voltaje");
 		
 	}
 
