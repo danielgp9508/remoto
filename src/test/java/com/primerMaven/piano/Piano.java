@@ -118,13 +118,18 @@ public class Piano {
 		driver.manage().window().maximize();
 		WebElement nota1 = driver.findElement(By.xpath("/html")); 
 		
-		
+           System.out.print(" :) JHINDY :) "); 
+          
 	}
 	
 	@After
 	public void After() {
 		
+<<<<<<< HEAD
 		System.out.println("a ver si puedo");
+=======
+		System.out.println("jhindy es tremendo voltaje");
+>>>>>>> afd45a88c37d20838bef16e3ea30a237cd0b4f0e
 		
 	}
 
