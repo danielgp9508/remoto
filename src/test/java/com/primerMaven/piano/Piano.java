@@ -126,10 +126,14 @@ public class Piano {
 	public void After() {
 		
 <<<<<<< HEAD
+<<<<<<< HEAD
 		System.out.println("a ver si puedo");
 =======
 		System.out.println("jhindy es tremendo voltaje");
 >>>>>>> afd45a88c37d20838bef16e3ea30a237cd0b4f0e
+=======
+		System.out.println("crsitian es tremendo voltaje");
+>>>>>>> e311a290f46dbcbd9e0b3bf94fc5a3b2b0af08e6
 		
 	}
 
